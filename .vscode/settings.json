@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "__bit_reference": "c",
+        "algorithm": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "unordered_map": "c",
+        "typeinfo": "c",
+        "stdlib.h": "c",
+        "system_error": "c",
+        "element.h": "c",
+        "string.h": "c",
+        "warrior.h": "c",
+        "stdio.h": "c",
+        "rent.h": "c"
+    }
+}
